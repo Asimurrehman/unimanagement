@@ -1,0 +1,48 @@
+D:\programs of vp\uni management system\uni management system\bin\Debug\uni management system.exe
+D:\programs of vp\uni management system\uni management system\bin\Debug\uni management system.pdb
+D:\programs of vp\uni management system\uni management system\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\programs of vp\uni management system\uni management system\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+D:\programs of vp\uni management system\uni management system\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\programs of vp\uni management system\uni management system\obj\x86\Debug\uni management system.exe
+D:\programs of vp\uni management system\uni management system\obj\x86\Debug\uni management system.pdb
+D:\programs of vp\uni management system\uni management system\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+D:\programs of vp\uni management system\uni management system\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+D:\programs of vp\uni management system\uni management system\obj\x86\Debug\WindowsFormsApplication1.Form5.resources
+D:\programs of vp\uni management system\uni management system\obj\x86\Debug\WindowsFormsApplication1.Form6.resources
+D:\programs of vp\uni management system\uni management system\obj\x86\Debug\WindowsFormsApplication1.Form7.resources
+D:\programs of vp\uni management system\uni management system\obj\x86\Debug\WindowsFormsApplication1.Form10.resources
+D:\programs of vp\uni management system\uni management system\obj\x86\Debug\WindowsFormsApplication1.Form8.resources
+D:\programs of vp\uni management system\uni management system\obj\x86\Debug\WindowsFormsApplication1.Form9.resources
+D:\programs of vp\uni management system\uni management system\obj\x86\Debug\WindowsFormsApplication1.Form11.resources
+D:\programs of vp\uni management system\uni management system\obj\x86\Debug\WindowsFormsApplication1.Form12.resources
+D:\programs of vp\uni management system\uni management system\obj\x86\Debug\WindowsFormsApplication1.Form13.resources
+D:\programs of vp\uni management system\uni management system\obj\x86\Debug\WindowsFormsApplication1.Form14.resources
+D:\programs of vp\uni management system\uni management system\obj\x86\Debug\WindowsFormsApplication1.Form15.resources
+D:\programs of vp\uni management system\uni management system\obj\x86\Debug\WindowsFormsApplication1.Form16.resources
+D:\programs of vp\uni management system\uni management system\obj\x86\Debug\WindowsFormsApplication1.Form17.resources
+D:\programs of vp\uni management system\uni management system\obj\x86\Debug\WindowsFormsApplication1.Form18.resources
+D:\programs of vp\uni management system\uni management system\obj\x86\Debug\WindowsFormsApplication1.Form19.resources
+D:\programs of vp\uni management system\uni management system\obj\x86\Debug\WindowsFormsApplication1.Form20.resources
+D:\programs of vp\uni management system\uni management system\obj\x86\Debug\WindowsFormsApplication1.Form21.resources
+D:\programs of vp\uni management system\uni management system\obj\x86\Debug\WindowsFormsApplication1.Form22.resources
+D:\programs of vp\uni management system\uni management system\obj\x86\Debug\WindowsFormsApplication1.Form23.resources
+D:\programs of vp\uni management system\uni management system\obj\x86\Debug\WindowsFormsApplication1.Form24.resources
+D:\programs of vp\uni management system\uni management system\obj\x86\Debug\WindowsFormsApplication1.Form25.resources
+D:\programs of vp\uni management system\uni management system\obj\x86\Debug\WindowsFormsApplication1.Form26.resources
+D:\programs of vp\uni management system\uni management system\obj\x86\Debug\WindowsFormsApplication1.Form27.resources
+D:\programs of vp\uni management system\uni management system\obj\x86\Debug\WindowsFormsApplication1.Form28.resources
+D:\programs of vp\uni management system\uni management system\obj\x86\Debug\WindowsFormsApplication1.Form29.resources
+D:\programs of vp\uni management system\uni management system\obj\x86\Debug\WindowsFormsApplication1.Form30.resources
+D:\programs of vp\uni management system\uni management system\obj\x86\Debug\WindowsFormsApplication1.Form31.resources
+D:\programs of vp\uni management system\uni management system\obj\x86\Debug\WindowsFormsApplication1.Form32.resources
+D:\programs of vp\uni management system\uni management system\obj\x86\Debug\WindowsFormsApplication1.Form33.resources
+D:\programs of vp\uni management system\uni management system\obj\x86\Debug\WindowsFormsApplication1.Form34.resources
+D:\programs of vp\uni management system\uni management system\obj\x86\Debug\WindowsFormsApplication1.Form35.resources
+D:\programs of vp\uni management system\uni management system\obj\x86\Debug\WindowsFormsApplication1.Form36.resources
+D:\programs of vp\uni management system\uni management system\obj\x86\Debug\WindowsFormsApplication1.Form37.resources
+D:\programs of vp\uni management system\uni management system\obj\x86\Debug\WindowsFormsApplication1.Form38.resources
+D:\programs of vp\uni management system\uni management system\obj\x86\Debug\WindowsFormsApplication1.Form39.resources
+D:\programs of vp\uni management system\uni management system\obj\x86\Debug\WindowsFormsApplication1.Form40.resources
+D:\programs of vp\uni management system\uni management system\obj\x86\Debug\WindowsFormsApplication1.Form41.resources
+D:\programs of vp\uni management system\uni management system\obj\x86\Debug\uni management system.csproj.GenerateResource.Cache
+D:\programs of vp\uni management system\uni management system\obj\x86\Debug\uni management system.csprojResolveAssemblyReference.cache
